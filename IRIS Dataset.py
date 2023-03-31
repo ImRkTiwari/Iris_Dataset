@@ -45,8 +45,12 @@ df.info()
 
 
 df.isnull().sum()
-#isnull() finds if there any NULL value is present or not and it gives the output in the form of TRUE or FALSE i.e., we used sum() function so that we can get the output in numeric form that is the sum of all the NULL values present in the dataset.
-
+'''
+isnull() finds if there any NULL value is present or not 
+and it gives the output in the form of TRUE or FALSE 
+i.e., we used sum() function so that we can get the output in numeric form 
+that is the sum of all the NULL values present in the dataset.
+'''
 
 # # Some Basic Information about the Dataset
 
